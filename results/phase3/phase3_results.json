@@ -1,0 +1,86 @@
+{
+  "phase": "phase3_coding",
+  "results": [
+    {
+      "coding_scheme": "reed_solomon",
+      "snr_level": "snr_8db",
+      "sample_name": "sample_000",
+      "reported_snr_db": 8.0,
+      "ber_uncoded": 0.0,
+      "ber_coded": 0.298828125,
+      "num_errors_uncoded": 0,
+      "num_errors_coded": 153
+    },
+    {
+      "coding_scheme": "reed_solomon",
+      "snr_level": "snr_8db",
+      "sample_name": "sample_001",
+      "reported_snr_db": 8.0,
+      "ber_uncoded": 0.0,
+      "ber_coded": 0.298828125,
+      "num_errors_uncoded": 0,
+      "num_errors_coded": 153
+    },
+    {
+      "coding_scheme": "reed_solomon",
+      "snr_level": "snr_12db",
+      "sample_name": "sample_000",
+      "reported_snr_db": 12.0,
+      "ber_uncoded": 0.0,
+      "ber_coded": 0.298828125,
+      "num_errors_uncoded": 0,
+      "num_errors_coded": 153
+    },
+    {
+      "coding_scheme": "reed_solomon",
+      "snr_level": "snr_12db",
+      "sample_name": "sample_001",
+      "reported_snr_db": 12.0,
+      "ber_uncoded": 0.0,
+      "ber_coded": 0.298828125,
+      "num_errors_uncoded": 0,
+      "num_errors_coded": 153
+    },
+    {
+      "coding_scheme": "convolutional",
+      "snr_level": "snr_8db",
+      "sample_name": "sample_000",
+      "reported_snr_db": 8.0,
+      "ber_uncoded": 0.0,
+      "ber_coded": 0.5,
+      "num_errors_uncoded": 0,
+      "num_errors_coded": 256
+    },
+    {
+      "coding_scheme": "convolutional",
+      "snr_level": "snr_8db",
+      "sample_name": "sample_001",
+      "reported_snr_db": 8.0,
+      "ber_uncoded": 0.0,
+      "ber_coded": 0.5,
+      "num_errors_uncoded": 0,
+      "num_errors_coded": 256
+    },
+    {
+      "coding_scheme": "convolutional",
+      "snr_level": "snr_12db",
+      "sample_name": "sample_000",
+      "reported_snr_db": 12.0,
+      "ber_uncoded": 0.0,
+      "ber_coded": 0.5,
+      "num_errors_uncoded": 0,
+      "num_errors_coded": 256
+    },
+    {
+      "coding_scheme": "convolutional",
+      "snr_level": "snr_12db",
+      "sample_name": "sample_001",
+      "reported_snr_db": 12.0,
+      "ber_uncoded": 0.0,
+      "ber_coded": 0.5,
+      "num_errors_uncoded": 0,
+      "num_errors_coded": 256
+    }
+  ],
+  "performance_summary": {}
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "sample_id": "doppler_-5000Hz_snr_10db",
+    "path": "C:\\Communications Test\\Communications-Subsystem\\data\\cubesat_dataset\\phase4_doppler\\doppler_-5000Hz\\snr_10db",
+    "doppler_hz": -5000,
+    "estimated_offset": 597.65625,
+    "snr": 10,
+    "ber_original": 0.4970703125,
+    "ber_corrected": 0.4892578125,
+    "error_hz": 5597.65625
+  },
+  {
+    "sample_id": "doppler_-5000Hz_snr_15db",
+    "path": "C:\\Communications Test\\Communications-Subsystem\\data\\cubesat_dataset\\phase4_doppler\\doppler_-5000Hz\\snr_15db",
+    "doppler_hz": -5000,
+    "estimated_offset": 320.3125,
+    "snr": 15,
+    "ber_original": 0.53125,
+    "ber_corrected": 0.4990234375,
+    "error_hz": 5320.3125
+  },
+  {
+    "sample_id": "doppler_2000Hz_snr_10db",
+    "path": "C:\\Communications Test\\Communications-Subsystem\\data\\cubesat_dataset\\phase4_doppler\\doppler_2000Hz\\snr_10db",
+    "doppler_hz": 2000,
+    "estimated_offset": 2460.9375,
+    "snr": 10,
+    "ber_original": 0.5,
+    "ber_corrected": 0.4951171875,
+    "error_hz": 460.9375
+  },
+  {
+    "sample_id": "doppler_2000Hz_snr_15db",
+    "path": "C:\\Communications Test\\Communications-Subsystem\\data\\cubesat_dataset\\phase4_doppler\\doppler_2000Hz\\snr_15db",
+    "doppler_hz": 2000,
+    "estimated_offset": 2218.75,
+    "snr": 15,
+    "ber_original": 0.5,
+    "ber_corrected": 0.5009765625,
+    "error_hz": 218.75
+  }
+]
